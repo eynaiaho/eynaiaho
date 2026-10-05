@@ -1,4 +1,5 @@
-# Hey, I'm Ahmet 👋
+# Hey, I'm Ahmet Cihan (eynaiaho) 👋
+Also known as **eynaiaho** across the web. 
 
 Self-taught high school developer focused on **system programming** and **backend development**.  
 I build things that are close to the metal - or close to production.
